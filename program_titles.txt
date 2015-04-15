@@ -1,0 +1,39 @@
+C++ Program to Implement Singly Linked List
+C++ Program to Implement Circular Singly Linked List
+C++ Program to Implement Doubly Linked List
+C++ Program to Implement Circular Doubly Linked List
+C++ Program to Implement Self organizing List
+C++ Program to Implement Skip List
+C++ Program to Implement Stack
+C++ Program to Implement Queue
+C++ Program to Implement Doubly Ended Queue
+C++ Program to Implement Unrolled Linked List
+C++ Program to Implement VList
+C++ Program to Implement Xor Linked List
+C++ Program to Implement  Zipper
+C++ Program to Implement Difference List
+C++ Program to Implement Doubly connected Edge List
+C++ Program to Implement AA Tress
+C++ Program to Implement AVL Trees
+C++ Program to Implement Binary Tree
+C++ Program to Implement Binary Search Tree
+C++ Program to Implement Cartesian Tree
+C++ Program to Implement Pagoda
+C++ Program to Implement Direct Addressing Tables
+C++ Program to Implement Hash Tables
+C++ Program to Implement Hash Tables chaining with Singly Linked Lists
+C++ Program to Implement Hash Tables Chaining with Binary Trees
+C++ Program to Implement Hash Tables Chaining with Doubly Linked Lists
+C++ Program to Implement Hash Tables Chaining with List Heads
+C++ Program to Implement Hash Tables with Linear Probing
+C++ Program to Implement Hash Tables with Quadratic Probing
+C++ Program to Implement Hash Tables with Double Hashing
+C++ Program to Implement Bloom Filter
+C++ Program to Implement Hash Tree
+C++ Program to Implement Hash List
+C++ Program to Implement Hash Trie
+C++ Program to Implement prefix Hash Tree
+C++ Program to Implement Rolling Hash
+C++ Program to Implement Min Hash
+C++ Program to Implement CountMinSketch
+C++ Program to Implement Distributed Hash table

@@ -1,0 +1,8 @@
+Steps for n = 15
+
+Number of steps for n = 15: 32767
+
+Steps for n = 25
+
+Number of steps for n = 25: 33554431
+

@@ -1,0 +1,1 @@
+Bessie can score a point in the game by picking two of the dots and drawing a straight line between them; however, she is not allowed to draw a line if she has already drawn another line parallel to it. Bessie would like to know her chances of winning, so she has asked you to help find the maximum score she can obtain.
